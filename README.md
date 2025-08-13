@@ -4,13 +4,13 @@
 
 ✅ Listagem de Personagens com Scroll Infinito: A tela principal carrega os personagens da API e busca novas páginas automaticamente conforme o usuário rola a lista.
 
-![](./.github/scrollinfinito.mp4)
+https://github.com/user-attachments/assets/3d179b6b-6a23-43ea-ae84-b21ba1048dee
 
 ✅ Busca por Nome com Debounce:
 
 O campo de busca permite filtrar personagens por nome (parcial ou completo). A busca é otimizada com "debounce", que evita chamadas excessivas à API.
 
-![](./.github/filtragem.mp4)
+https://github.com/user-attachments/assets/67658f76-2baf-4815-af0e-d858894df04e
 
 ✅ Tela de Detalhes do Personagem:
 
@@ -21,12 +21,12 @@ Exibe informações como status, espécie, gênero, localização e primeira apa
 <img src="./.github/statusunknown.jpeg" height="300"/>
 
 ✅ Navegação entre telas:
-![](./.github/nevegacao.mp4)
+
+https://github.com/user-attachments/assets/de1d9e0f-820c-4899-8363-9b6dbb263bda
 
 ✅ Nenhum personagem encontrado:
-![](./.github/sempersonagem.mp4)
 
-
+https://github.com/user-attachments/assets/806264ff-dc6f-4986-abfa-eb6af8873c88
 
 ##  Arquitetura e Padrões de Projeto
 <img src="./.github/arq.png" height="300"/>
