@@ -1,5 +1,4 @@
 # Rick & Morty API - Desafio Técnico Kode Start 2025
----
 
 ## Funcionalidades Desenvolvidas:
 
@@ -17,14 +16,12 @@ O campo de busca permite filtrar personagens por nome (parcial ou completo). A b
 
 Exibe informações como status, espécie, gênero, localização e primeira aparição.
 
-![](./.github/statusalive.jpeg)
-![](./.github/statusdead.jpeg)
-![](./.github/statusunknown.jpeg)
-
+<img src="./.github/statusalive.jpeg" height="300"/>
+<img src="./.github/statusdead.jpeg" height="300"/>
+<img src="./.github/statusunknown.jpeg" height="300"/>
 
 ✅ Navegação entre telas:
 ![](./.github/nevegacao.mp4)
-
 
 ✅ Nenhum personagem encontrado:
 ![](./.github/sempersonagem.mp4)
@@ -32,6 +29,7 @@ Exibe informações como status, espécie, gênero, localização e primeira apa
 
 
 ##  Arquitetura e Padrões de Projeto
+<img src="./.github/arq.png" height="300"/>
 
 ### Domain (Domínio):
 
